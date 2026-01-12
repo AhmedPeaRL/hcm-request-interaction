@@ -1,0 +1,7 @@
+{
+  "request_type": "interaction",
+  "allowed": true,
+  "interaction_is_not_dialogue": true,
+  "system_does_not_initiate": true,
+  "witness_mode_preserved": true
+}
